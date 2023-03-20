@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\sweeft\sweeft\sweeft\bin\Debug\sweeft.exe.config
+C:\Users\ASUS\Desktop\sweeft\sweeft\sweeft\bin\Debug\sweeft.exe
+C:\Users\ASUS\Desktop\sweeft\sweeft\sweeft\bin\Debug\sweeft.pdb
+C:\Users\ASUS\Desktop\sweeft\sweeft\sweeft\obj\Debug\sweeft.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sweeft\sweeft\sweeft\obj\Debug\sweeft.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\sweeft\sweeft\sweeft\obj\Debug\sweeft.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sweeft\sweeft\sweeft\obj\Debug\sweeft.exe
+C:\Users\ASUS\Desktop\sweeft\sweeft\sweeft\obj\Debug\sweeft.pdb
+C:\Users\ASUS\Desktop\sweeft\sweeft 1-5\sweeft\bin\Debug\sweeft.exe.config
+C:\Users\ASUS\Desktop\sweeft\sweeft 1-5\sweeft\bin\Debug\sweeft.exe
+C:\Users\ASUS\Desktop\sweeft\sweeft 1-5\sweeft\bin\Debug\sweeft.pdb
+C:\Users\ASUS\Desktop\sweeft\sweeft 1-5\sweeft\obj\Debug\sweeft.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sweeft\sweeft 1-5\sweeft\obj\Debug\sweeft.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\sweeft\sweeft 1-5\sweeft\obj\Debug\sweeft.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sweeft\sweeft 1-5\sweeft\obj\Debug\sweeft.exe
+C:\Users\ASUS\Desktop\sweeft\sweeft 1-5\sweeft\obj\Debug\sweeft.pdb

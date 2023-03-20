@@ -1,0 +1,3 @@
+C:\Users\ASUS\Desktop\sweeft\sweeft 7\sweeft 7\obj\Debug\sweeft 7.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sweeft\sweeft 7\sweeft 7\obj\Debug\sweeft 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\sweeft\sweeft 7\sweeft 7\obj\Debug\sweeft 7.csproj.CoreCompileInputs.cache
